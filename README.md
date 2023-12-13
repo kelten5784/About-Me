@@ -32,6 +32,6 @@
 
 - Enthusiastic learner and avid reader of cybersecurity blogs.
 - I can fit my fist in my mouth
-- 
+- I make 3D models/art
 
 Thanks for stopping by! 🔐✨
