@@ -10,7 +10,7 @@
 ## 📚 Education
 
 - Currently pursuing a degree in Cybersecurity
-- [University Name]
+- [Fanshawe]
 
 ## 💼 Professional Goals
 
