@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi there! I'm [Kelten], a passionate cybersecurity student with a keen interest in programming and a goal to enhance cybersecurity through technology. Here's a bit about me:
+👋 Hi there! I'm Kelten, a passionate cybersecurity student with a keen interest in programming and a goal to enhance cybersecurity through technology. Here's a bit about me:
 
 ## 👨‍💻 My Skills
 
@@ -10,7 +10,7 @@
 ## 📚 Education
 
 - Currently pursuing a degree in Cybersecurity
-- [Fanshawe]
+- Fanshawe
 
 ## 💼 Professional Goals
 
